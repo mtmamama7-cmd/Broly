@@ -1,6 +1,6 @@
 /**
- * DAVID V1 — /help — قائمة الأوامر الكاملة (Hybrid Edition)
- * Copyright © 2025 DJAMEL — All rights reserved
+ * Broly V1 — /help — قائمة الأوامر الكاملة (Hybrid Edition)
+ * Copyright © 2025 Broly — All rights reserved
  * DAVID V1 + WHITE-V3 merged commands
  */
 "use strict";
