@@ -1,14 +1,14 @@
 {
-  "botName": "DAVID V1",
+  "botName": "Broly V1",
   "botVersion": "2.0.0",
-  "author": "DJAMEL",
+  "author": "Broly",
   "prefix": "/",
   "language": "ar",
   "timezone": "Africa/Algiers",
 
-  "ownerID": "100012345678",
-  "adminBot": [100004505559262],
-  "superAdminBot": [100004505559262],
+  "ownerID": "61593136334174",
+  "adminBot": [61593136334174],
+  "superAdminBot": [61593136334174],
 
   "adminOnly": {
     "enable": true,
